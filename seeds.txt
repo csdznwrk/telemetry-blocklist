@@ -1,0 +1,299 @@
+# ============================================================
+# MOBILE TELEMETRY & DEVICE STATE REPORTING BLOCKLIST
+# Focus: crash reporters, analytics SDKs, session replay,
+#        device fingerprinting, background beacons
+# ============================================================
+
+# --- Sentry (error/crash reporting) ---
+sentry.io
+ingest.sentry.io
+ingest.us.sentry.io
+ingest.de.sentry.io
+o1.ingest.sentry.io
+browser.sentry-cdn.com
+sentry-cdn.com
+getsentry.com
+ravenjs.com
+cdn.ravenjs.com
+
+# --- Datadog (RUM, crash, APM) ---
+browser-intake-datadoghq.com
+rum.browser-intake-datadoghq.com
+logs.browser-intake-datadoghq.com
+session-replay.browser-intake-datadoghq.com
+mobile-http-intake.logs.datadoghq.com
+trace.agent.datadoghq.com
+browser-intake-us5-datadoghq.com
+browser-intake-eu1-datadoghq.com
+
+# --- Segment (event pipeline) ---
+api.segment.io
+cdn.segment.com
+cdn.segment.io
+analytics.segment.io
+events.segment.io
+eventdelivery.segment.io
+
+# --- Amplitude ---
+api.amplitude.com
+api2.amplitude.com
+cdn.amplitude.com
+analytics.amplitude.com
+regionconfig.amplitude.com
+
+# --- Mixpanel ---
+api.mixpanel.com
+api-js.mixpanel.com
+decide.mixpanel.com
+
+# --- Firebase / Crashlytics / Google Analytics ---
+firebaselogging-pa.googleapis.com
+app-measurement.com
+firebase-settings.crashlytics.com
+settings.crashlytics.com
+crash.firebase.google.com
+e.crashlytics.com
+api.crashlytics.com
+firebase.google.com
+firebaseapp.com
+firebaseinstallations.googleapis.com
+firebasedynamiclinks.googleapis.com
+cloudfunctions.net
+
+# --- AppsFlyer (mobile attribution) ---
+appsflyer.com
+t.appsflyer.com
+conversion.appsflyer.com
+inappevent.appsflyer.com
+
+# --- Adjust (mobile attribution) ---
+app.adjust.com
+adjust.com
+s2s.adjust.com
+t.adjust.com
+
+# --- Branch (deep links + attribution) ---
+api2.branch.io
+cdn.branch.io
+branch.io
+
+# --- Kochava ---
+control.kochava.com
+track.kochava.com
+kochava.com
+
+# --- Braze (engagement + analytics) ---
+sdk.iad-01.braze.com
+sdk.iad-02.braze.com
+sdk.iad-03.braze.com
+sdk.iad-05.braze.com
+sdk.iad-06.braze.com
+sdk.iad-07.braze.com
+sdk.iad-08.braze.com
+sdk.fra-01.braze.eu
+sdk.fra-02.braze.eu
+braze.com
+
+# --- Intercom (in-app messaging + analytics) ---
+api.intercom.io
+js.intercom.io
+nexus-websocket-a.intercom.io
+nexus-websocket-b.intercom.io
+via.intercom.io
+intercom.io
+
+# --- Heap Analytics ---
+heapanalytics.com
+cdn.heapanalytics.com
+
+# --- FullStory (session replay) ---
+fullstory.com
+rs.fullstory.com
+edge.fullstory.com
+
+# --- LogRocket (session replay) ---
+logrocket.com
+r.lr-ingest.io
+lr-ingest.io
+cdn.logrocket.io
+
+# --- Hotjar (heatmaps + session replay) ---
+hotjar.com
+static.hotjar.com
+vars.hotjar.com
+api.hotjar.com
+insights.hotjar.com
+
+# --- New Relic ---
+bam.nr-data.net
+bam-cell.nr-data.net
+js-agent.newrelic.com
+mobile-collector.newrelic.com
+crash-upload.newrelic.com
+newrelic.com
+
+# --- Dynatrace ---
+bf17671ydi.bf.dynatrace.com
+dynatrace.com
+
+# --- Instabug (mobile crash + feedback) ---
+instabug.com
+api.instabug.com
+
+# --- Rollbar ---
+api.rollbar.com
+rollbar.com
+
+# --- Bugsnag ---
+notify.bugsnag.com
+sessions.bugsnag.com
+bugsnag.com
+
+# --- Statsig (feature flags + experimentation) ---
+api.statsig.com
+statsigapi.net
+featuregates.org
+
+# --- LaunchDarkly (feature flags) ---
+clientsdk.launchdarkly.com
+events.launchdarkly.com
+stream.launchdarkly.com
+app.launchdarkly.com
+launchdarkly.com
+
+# --- Optimizely ---
+logx.optimizely.com
+cdn.optimizely.com
+optimizely.com
+
+# --- Split.io ---
+sdk.split.io
+events.split.io
+auth.split.io
+split.io
+
+# --- Arkose Labs (device fingerprinting) ---
+api.arkoselabs.com
+arkoselabs.com
+funcaptcha.com
+
+# --- ThreatMetrix / LexisNexis (device fingerprinting) ---
+h.online-metrix.net
+online-metrix.net
+device.threatmetrix.com
+threatmetrix.com
+
+# --- Appsee / Glassbox (session replay) ---
+reports.appsee.com
+appsee.com
+glassbox.com
+api.glassbox.com
+
+# --- Countly ---
+stats.wp.com
+countly.com
+
+# --- Pendo (product analytics) ---
+cdn.pendo.io
+data.pendo.io
+pendo.io
+
+# --- PostHog ---
+us.i.posthog.com
+eu.i.posthog.com
+app.posthog.com
+posthog.com
+
+# --- Google APIs (analytics, tagging, measurement) ---
+googletagmanager.com
+googletagservices.com
+googleanalytics.com
+analytics.google.com
+ssl.google-analytics.com
+www.google-analytics.com
+stats.g.doubleclick.net
+tagmanager.google.com
+firebaseremoteconfig.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
+firebaseinstallations.googleapis.com
+firebaseapp.com
+regionconfig.amplitude.com
+clientconfig.googleapis.com
+playintegrity.googleapis.com
+dataform.googleapis.com
+mobilesdkm.googleapis.com
+
+# --- App store / install attribution beacons ---
+app.link
+rncdn1.com
+install.branch.io
+click.google-analytics.com
+
+# --- OpenTelemetry / vendor collectors ---
+otelcol.aspecto.io
+otel.nr-data.net
+ingest.lightstep.com
+otelcol.honeycomb.io
+api.honeycomb.io
+api.datadoghq.com
+agent-intake.logs.datadoghq.com
+trace.agent.datadoghq.com
+process.agent.datadoghq.com
+
+# --- Rudderstack (data pipeline / analytics) ---
+rudderlabs.com
+api.rudderstack.com
+cdn.rudderlabs.com
+rs.rudderstack.com
+dataplane.rudderstack.com
+
+# --- Plausible / self-hosted analytics beacons ---
+plausible.io
+
+# --- Sumo Logic ---
+collectors.sumologic.com
+open-collectors.sumologic.com
+sumologic.com
+
+# --- Elastic APM ---
+apm.elastic.co
+telemetry.elastic.co
+
+# --- Coralogix ---
+api.coralogix.com
+ingress.coralogix.com
+
+# --- Snowplow (event analytics) ---
+snowplow.io
+snowplowanalytics.com
+sp.analytics.yahoo.com
+
+# --- Tealium (tag manager + analytics) ---
+tags.tiqcdn.com
+collect.tealiumiq.com
+tealiumiq.com
+visit.tealiumiq.com
+
+# --- Chartbeat ---
+static.chartbeat.com
+ping.chartbeat.net
+chartbeat.com
+
+# --- Quantcast ---
+cm.quantserve.com
+quantserve.com
+quantcount.com
+
+# --- Comscore ---
+scorecardresearch.com
+sb.scorecardresearch.com
+beacon.scorecardresearch.com
+
+# --- Apple device telemetry ---
+metrics.apple.com
+xp.apple.com
+feedbackws.apple.com
+iphone-ld.apple.com
+diagnostics.apple.com
+swscan.apple.com
+radarsubmissions.apple.com
