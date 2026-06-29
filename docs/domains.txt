@@ -1,11 +1,12 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-06-28 18:45 UTC
-# Domains: 377
+# Updated: 2026-06-29 12:03 UTC
+# Domains: 432
 
 77tracking.com
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.recruit-card.jp
 aa-metrics.trip-ai.jp
+acoustic.com
 ad.centrum.cz
 adblockanalytics.com
 adetracking.com
@@ -15,6 +16,7 @@ adlooxtracking.com
 ads-game-187f4.firebaseapp.com
 adserver.irishwebmasterforum.com
 adsmartracker.com
+advertracker.com
 affiliatetracking.com
 affiliatetracking.net
 afftracking.justanswer.com
@@ -50,12 +52,16 @@ analytics.tiktok.com
 analytics.xelondigital.com
 analytics.yahoo.com
 analyticsapi.happypancake.net
+api-crash-assist-snapshot.gotruemotion.com
 api-js.mixpanel.com
 api.amplitude.com
 api.appmetrica.yandex.ru
+api.arity.com
 api.arkoselabs.com
+api.contentsquare.net
 api.coralogix.com
 api.crashlytics.com
+api.damoov.com
 api.datadoghq.com
 api.eu.amplitude.com
 api.glassbox.com
@@ -64,11 +70,15 @@ api.hotjar.com
 api.instabug.com
 api.intercom.io
 api.lab.amplitude.com
+api.medallia.com
 api.mixpanel.com
+api.quantummetric.com
 api.rollbar.com
 api.rudderstack.com
 api.segment.io
 api.statsig.com
+api.telematicssdk.com
+api.zendrive.com
 api2.amplitude.com
 api2.branch.io
 apm.elastic.co
@@ -80,8 +90,10 @@ app.launchdarkly.com
 app.link
 app.pendo.io
 app.posthog.com
+appdynamics.com
 appsee.com
 appsflyer.com
+arity.com
 arkoselabs.com
 auth.split.io
 avazutracking.net
@@ -105,6 +117,8 @@ browser-intake-us5-datadoghq.com
 browser.sentry-cdn.com
 bugsnag.com
 cakesdrum.com
+cambridgemobiletelematicsdata.com
+cd.signalfx.com
 cdn.amplitude.com
 cdn.branch.io
 cdn.heapanalytics.com
@@ -115,7 +129,10 @@ cdn.ravenjs.com
 cdn.rudderlabs.com
 cdn.segment.com
 cdn.segment.io
+cdn.signalfx.com
+cdp.mixpanel.com
 chartbeat.com
+cisco-appdynamics.com
 click.google-analytics.com
 clickonometrics.pl
 clientconfig.googleapis.com
@@ -123,9 +140,12 @@ clientmetrics-pa.googleapis.com
 clientsdk.launchdarkly.com
 cloudfunctions.net
 cm.quantserve.com
+cmtelematics.com
 code.etracker.com
+collect.medallia.com
 collect.tealiumiq.com
 collectors.sumologic.com
+contentsquare.net
 control.kochava.com
 conversion.appsflyer.com
 coremetrics.com
@@ -134,7 +154,9 @@ crash-upload.newrelic.com
 crash.firebase.google.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
+cs-repl.com
 cushiondrum.com
+damoov.com
 data.pendo.io
 dataform.googleapis.com
 dataplane.rudderstack.com
@@ -166,6 +188,7 @@ firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 fireworkanalytics.com
+fra.saasgw.appdynamics.com
 fullstory.com
 funcaptcha.com
 getsentry.com
@@ -174,19 +197,24 @@ google-analytics.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
+gotruemotion.com
+grafana.net
 h.online-metrix.net
 heap.com
 heapanalytics.com
 hotjar.com
 hs-analytics.net
 hypertracker.com
+iad.saasgw.appdynamics.com
 inappevent.appsflyer.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 ingest.de.sentry.io
+ingest.eu0.signalfx.com
 ingest.lightstep.com
 ingest.sentry.io
 ingest.us.sentry.io
+ingest.us1.signalfx.com
 ingress.coralogix.com
 insights.hotjar.com
 instabug.com
@@ -202,11 +230,15 @@ kochava.com
 launchdarkly.com
 lever-analytics.com
 log.logrocket.io
+logger.quantummetric.com
 logrocket.com
+logs-prod-eu-west-0.grafana.net
+logs-prod-us-central1.grafana.net
 logs.browser-intake-datadoghq.com
 logx.optimizely.com
 lr-ingest.io
 matheranalytics.com
+medallia.com
 metrics-a.wbx2.com
 metrics-logger.spot.im
 metrics.api.drift.com
@@ -224,6 +256,7 @@ mobile-collector.newrelic.com
 mobile-http-intake.logs.datadoghq.com
 mobileanalytics.us-east-1.amazonaws.com
 mobilesdkm.googleapis.com
+mtpak.acoustic.com
 mybbc-analytics.files.bbci.co.uk
 mylead-tracking.tracknow.info
 newrelic.com
@@ -233,12 +266,16 @@ nmtracking.netflix.com
 notify.bugsnag.com
 nr-data.net
 o1.ingest.sentry.io
+observability.splunkcloud.com
 online-metrix.net
 open-collectors.sumologic.com
 optimizely.com
 otel.nr-data.net
 otelcol.aspecto.io
 otelcol.honeycomb.io
+otlp-gateway-prod-eu-west-0.grafana.net
+otlp-gateway-prod-us-east-0.grafana.net
+pdx.saasgw.appdynamics.com
 pendo.io
 ping.chartbeat.net
 plausible.io
@@ -269,6 +306,12 @@ rs.rudderstack.com
 rudderlabs.com
 rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
+rum-ingest.eu0.observability.splunkcloud.com
+rum-ingest.eu0.signalfx.com
+rum-ingest.us0.observability.splunkcloud.com
+rum-ingest.us0.signalfx.com
+rum-ingest.us1.observability.splunkcloud.com
+rum-ingest.us1.signalfx.com
 rum.browser-intake-datadoghq.com
 s2s.adjust.com
 sanalytics.disneyplus.com
@@ -295,6 +338,7 @@ session-replay.browser-intake-datadoghq.com
 sessions.bugsnag.com
 settings.crashlytics.com
 sextracker.com
+signalfx.com
 simpleanalytics.io
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -324,17 +368,23 @@ stupendoussleet.com
 stupendoussnow.com
 sumologic.com
 surveygizmobeacon.s3.amazonaws.com
+surveys.medallia.com
 swscan.apple.com
+syd.saasgw.appdynamics.com
 t.adjust.com
 t.appsflyer.com
+tag.commander.com
+tagcommander.com
 tagmanager.google.com
 tags.tiqcdn.com
 tealiumiq.com
+telematicssdk.com
 telemetry.dropbox.com
 telemetry.elastic.co
 telemetry.goodlifefitness.com
 telemetry.malwarebytes.com
 telemetry.v.dropbox.com
+tempo-prod-04-prod-us-east-0.grafana.net
 threatmetrix.com
 tls.telemetry.swe.quicinc.com
 trace.agent.datadoghq.com
@@ -345,7 +395,10 @@ tracker.cdnbye.com
 tracker.colatv88xb.cc
 tracker.icerocket.com
 tracker.mmdlv.it
+tracker.optin-lead.com
 tracker.samplicio.us
+tracking.adstrategysites.com
+tracking.casheddy.com
 tracking.cybertips.uk
 tracking.epicgames.com
 tracking.hyros.com
@@ -358,6 +411,7 @@ tracking.miui.com
 tracking.netalerts.io
 tracking.olx-st.com
 tracking.orixa-media.com
+tracking.p-l-m.com
 tracking.wetter.at
 tracking01.walmart.com
 tracking101.com
@@ -378,4 +432,5 @@ xtracker.logimeter.com
 yandexmetrica.com
 ymetrica1.com
 zantracker.com
+zendrive.com
 zion-telemetry.api.cnn.io
