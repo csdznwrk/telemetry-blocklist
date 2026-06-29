@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-06-29 14:51 UTC
-# Domains: 1076
+# Updated: 2026-06-29 22:18 UTC
+# Domains: 1077
 
 51degrees.com
 77tracking.com
@@ -996,6 +996,7 @@ zion-telemetry.api.cnn.io
 ||svibeacon.onezapp.com^
 ||talpa-analytics.$third-party
 ||telemetrics.klaviyo.com^
+||telemetry.adsninja.ca^
 ||telemetry.api.wmcdp.io^$third-party
 ||telemetry.services.yofi.ai^
 ||telemetry.swe.quicinc.com^
