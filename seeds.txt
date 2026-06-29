@@ -363,6 +363,153 @@ cdp.mixpanel.com
 api.eu.amplitude.com
 api.lab.amplitude.com
 
+# --- Mobile engagement / push SDKs (heavy behavioral tracking) ---
+# OneSignal
+onesignal.com
+api.onesignal.com
+cdn.onesignal.com
+log.onesignal.com
+# Airship / Urban Airship
+airship.com
+urbanairship.com
+device-api.urbanairship.com
+aswpush.com
+go.urbanairship.com
+# CleverTap
+clevertap.com
+api.clevertap.com
+stats.clevertap.com
+wrs.clevertap.com
+# Leanplum
+leanplum.com
+api.leanplum.com
+cdn.leanplum.com
+# MoEngage
+moengage.com
+api-01.moengage.com
+api-02.moengage.com
+api-03.moengage.com
+api-04.moengage.com
+# Iterable
+api.iterable.com
+links.iterable.com
+iterable.com
+# WebEngage
+webengage.com
+api.webengage.com
+# Pushwoosh
+pushwoosh.com
+api.pushwoosh.com
+cp.pushwoosh.com
+# Insider
+useinsider.com
+api.useinsider.com
+# Customer.io
+customer.io
+api.customer.io
+track.customer.io
+# Klaviyo
+klaviyo.com
+static.klaviyo.com
+a.klaviyo.com
+# Swrve
+swrve.com
+api.swrve.com
+# Localytics
+localytics.com
+api.localytics.com
+
+# --- UXCam / mobile session replay ---
+sdkhub.com
+api.uxcam.com
+uxcam.com
+
+# --- Appcues (in-app onboarding + behavior) ---
+appcues.com
+api.appcues.com
+fast.appcues.com
+
+# --- Mixpanel / Amplitude ingestion (disguised subdomains) ---
+api.mixpanel.com
+cdp.mixpanel.com
+
+# --- Customer Data Platforms (CDP) ---
+# Segment (already in list, adding CDP-specific)
+segmentapis.com
+# mParticle
+mparticle.com
+nativesdks.mparticle.com
+identity.mparticle.com
+# Treasure Data
+treasuredata.com
+in.treasuredata.com
+# Lytics
+lytics.com
+api.lytics.com
+# BlueConic
+blueconic.com
+api.blueconic.com
+# ActionIQ
+actioniq.com
+# Tealium AudienceStream (already has tealium)
+collect.tealiumiq.com
+
+# --- Voice-of-customer / in-app surveys (harvest opinions + behavior) ---
+surveymonkey.com
+smsurvey.com
+usabilla.com
+api.usabilla.com
+delighted.com
+api.delighted.com
+typeform.com
+api.typeform.com
+getfeedback.com
+
+# --- Performance / APM (additional) ---
+# Catchpoint
+catchpoint.com
+# Atatus
+atatus.com
+api.atatus.com
+# Raygun
+api.raygun.com
+raygun.com
+# TrackJS
+errors.trackjs.com
+trackjs.com
+# Airbrake
+airbrake.io
+api.airbrake.io
+# Honeybadger
+api.honeybadger.io
+honeybadger.io
+
+# --- Advertising measurement (disguised as app infrastructure) ---
+# Singular (MMP)
+api.singular.net
+singular.net
+# Kochava (additional)
+control.kochava.com
+track.kochava.com
+# SKAdNetwork postback receivers
+postbacks.appsflyer.com
+skadnetwork.apple.com
+
+# --- Chinese surveillance SDKs (found in many global apps) ---
+# Umeng (Alibaba analytics)
+stat.umeng.com
+alog.umeng.com
+utdid.taobao.com
+umeng.com
+# TalkingData
+talkingdata.com
+api.talkingdata.com
+# iQIYI analytics
+bd.api.iqiyi.com
+# Igexin (known spyware SDK)
+api.igexin.com
+igexin.com
+
 # --- Apple device telemetry ---
 metrics.apple.com
 xp.apple.com
