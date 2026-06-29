@@ -1,5 +1,5 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-06-29 14:06 UTC
+# Updated: 2026-06-29 14:51 UTC
 # Domains: 1076
 
 51degrees.com
