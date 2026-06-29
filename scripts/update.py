@@ -29,8 +29,8 @@ COMMUNITY_SOURCES = [
 
 # Focused plain-text sources (one domain per line, # comments ok)
 PLAIN_SOURCES = [
-    "https://raw.githubusercontent.com/nicehash/NiceHashExodus/master/blocklist.txt",
     "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=plain&showintro=0&mimetype=plaintext",
+    "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
 ]
 
 # Telemetry-specific keywords — only keep lines matching these
