@@ -580,6 +580,70 @@ predicio.com
 tamoco.com
 api.tamoco.com
 
+# --- Fingerprinting-as-a-Service (canvas, WebGL, AudioContext, battery, screen) ---
+# FingerprintJS Pro / Fingerprint.com
+fingerprint.com
+fpjscdn.net
+api.fpjs.io
+api.fpjs.pro
+fptls.com
+eu.api.fpjs.io
+ap.api.fpjs.io
+openfpcdn.io
+fingerprintjs.com
+# BioCatch (behavioral biometrics — tap/swipe/hold patterns)
+biocatch.com
+api.biocatch.com
+cd.biocatch.com
+# iovation / TransUnion (device reputation + fingerprinting)
+iovation.com
+mpsnare.com
+iovation.mpsnare.com
+client.iesnare.com
+mpsnare.iesnare.com
+# HUMAN Security / White Ops (deep device fingerprinting)
+humanity.com
+humanab.com
+px.ads.linkedin.com
+human.security
+api.human.security
+whiteops.com
+sensor.pxi.pub
+pxi.pub
+# 51Degrees (device detection / hardware profiling)
+51degrees.com
+device-detection.51degrees.com
+cloud.51degrees.com
+# DeviceAtlas
+deviceatlas.com
+api.deviceatlas.com
+# WURFL (device classification)
+wurfl.io
+api.wurfl.io
+scientiamobile.com
+# TrustDecision (device fingerprinting, Asia-Pacific)
+tdos.io
+api.trustdevice.ai
+trustdevice.ai
+# Seon (device fingerprinting + fraud)
+cdn.deviceintelligence.io
+deviceintelligence.io
+seon.io
+api.seon.io
+# Sardine (device + behavioral fingerprinting, fintech)
+sardine.ai
+api.sardine.ai
+# Castle (account security + device fingerprinting)
+castle.io
+api.castle.io
+d.castle.io
+# Transmit Security / BindID
+transmitsecurity.com
+api.transmitsecurity.com
+# Incognia (location + device fingerprinting, fintech)
+incognia.com
+api.incognia.com
+
 # --- Apple device telemetry ---
 metrics.apple.com
 xp.apple.com
