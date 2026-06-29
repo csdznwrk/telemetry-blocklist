@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-06-29 12:07 UTC
-# Domains: 983
+# Updated: 2026-06-29 13:52 UTC
+# Domains: 1027
 
 77tracking.com
 a.klaviyo.com
@@ -18,6 +18,7 @@ adlooxtracking.com
 ads-game-187f4.firebaseapp.com
 adserver.irishwebmasterforum.com
 adsmartracker.com
+adsquare.com
 advertracker.com
 affiliatetracking.com
 affiliatetracking.net
@@ -63,6 +64,7 @@ api-03.moengage.com
 api-04.moengage.com
 api-crash-assist-snapshot.gotruemotion.com
 api-js.mixpanel.com
+api.adsquare.com
 api.airbrake.io
 api.amplitude.com
 api.appcues.com
@@ -70,6 +72,7 @@ api.appmetrica.yandex.ru
 api.arity.com
 api.arkoselabs.com
 api.atatus.com
+api.babelstreet.com
 api.blueconic.com
 api.clevertap.com
 api.contentsquare.net
@@ -80,7 +83,10 @@ api.damoov.com
 api.datadoghq.com
 api.delighted.com
 api.eu.amplitude.com
+api.foursquare.com
 api.glassbox.com
+api.gravyanalytics.com
+api.groundtruth.com
 api.honeybadger.io
 api.honeycomb.io
 api.hotjar.com
@@ -94,23 +100,30 @@ api.localytics.com
 api.lytics.com
 api.medallia.com
 api.mixpanel.com
+api.mobilewalla.com
+api.near.co
 api.onesignal.com
 api.pushwoosh.com
 api.quantummetric.com
 api.raygun.com
 api.rollbar.com
 api.rudderstack.com
+api.safegraph.com
 api.segment.io
 api.singular.net
 api.statsig.com
 api.swrve.com
 api.talkingdata.com
+api.tamoco.com
 api.telematicssdk.com
 api.typeform.com
+api.unacast.com
 api.usabilla.com
 api.useinsider.com
 api.uxcam.com
+api.veraset.com
 api.webengage.com
+api.xmode.io
 api.zendrive.com
 api2.amplitude.com
 api2.branch.io
@@ -133,6 +146,7 @@ aswpush.com
 atatus.com
 auth.split.io
 avazutracking.net
+babelstreet.com
 bam-cell.nr-data.net
 bam.nr-data.net
 baremetrics.com
@@ -184,9 +198,11 @@ cloudfunctions.net
 cm.quantserve.com
 cmtelematics.com
 code.etracker.com
+collect.cuebiq.com
 collect.medallia.com
 collect.tealiumiq.com
 collectors.sumologic.com
+complementics.com
 contentsquare.net
 control.kochava.com
 conversion.appsflyer.com
@@ -202,6 +218,7 @@ cushiondrum.com
 customer.io
 damoov.com
 data.pendo.io
+data.xmode.io
 dataform.googleapis.com
 dataplane.rudderstack.com
 decide.mixpanel.com
@@ -209,6 +226,7 @@ delighted.com
 device-api.urbanairship.com
 device.threatmetrix.com
 diagnostics.apple.com
+digitalenvoy.net
 dmtracker.com
 dmtracking.alibaba.com
 dmtracking2.alibaba.com
@@ -236,6 +254,8 @@ firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 fireworkanalytics.com
+fogdatascience.com
+foursquare.com
 fra.saasgw.appdynamics.com
 fullstory.com
 funcaptcha.com
@@ -249,6 +269,8 @@ googletagmanager.com
 googletagservices.com
 gotruemotion.com
 grafana.net
+gravyanalytics.com
+groundtruth.com
 h.online-metrix.net
 heap.com
 heapanalytics.com
@@ -264,6 +286,7 @@ in.treasuredata.com
 inappevent.appsflyer.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
+ingest.cuebiq.com
 ingest.de.sentry.io
 ingest.eu0.signalfx.com
 ingest.lightstep.com
@@ -271,6 +294,7 @@ ingest.sentry.io
 ingest.us.sentry.io
 ingest.us1.signalfx.com
 ingress.coralogix.com
+inmarket.com
 insights.hotjar.com
 instabug.com
 install.branch.io
@@ -289,6 +313,7 @@ leanplum.com
 lever-analytics.com
 links.iterable.com
 localytics.com
+locationdata.outbrain.com
 log.logrocket.io
 log.onesignal.com
 logger.quantummetric.com
@@ -318,12 +343,16 @@ mobile-collector.newrelic.com
 mobile-http-intake.logs.datadoghq.com
 mobileanalytics.us-east-1.amazonaws.com
 mobilesdkm.googleapis.com
+mobilewalla.com
 moengage.com
 mparticle.com
+mpmetrics.kochava.com
 mtpak.acoustic.com
 mybbc-analytics.files.bbci.co.uk
 mylead-tracking.tracknow.info
 nativesdks.mparticle.com
+near.co
+near.com
 newrelic.com
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
@@ -341,13 +370,19 @@ otelcol.aspecto.io
 otelcol.honeycomb.io
 otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
+outlogic.io
 pdx.saasgw.appdynamics.com
 pendo.io
+penlink.com
+pilgrim.foursquare.com
 ping.chartbeat.net
+placed.com
 plausible.io
 playintegrity.googleapis.com
 postbacks.appsflyer.com
 posthog.com
+precisely.com
+predicio.com
 prmtracking.com
 process.agent.datadoghq.com
 pushwoosh.com
@@ -423,6 +458,7 @@ smetrics.foxnews.com
 smetrics.walgreens.com
 smetrics.washingtonpost.com
 smsurvey.com
+snapplace.com
 snowplow.io
 snowplowanalytics.com
 sp.analytics.yahoo.com
@@ -457,6 +493,7 @@ tagcommander.com
 tagmanager.google.com
 tags.tiqcdn.com
 talkingdata.com
+tamoco.com
 tealiumiq.com
 telematicssdk.com
 telemetry.dropbox.com
@@ -484,6 +521,7 @@ tracking.cybertips.uk
 tracking.epicgames.com
 tracking.hyros.com
 tracking.ibxlink.com
+tracking.inmarket.com
 tracking.intentsify.io
 tracking.intl.miui.com
 tracking.jiffyworld.com
@@ -503,6 +541,7 @@ trackjs.com
 treasuredata.com
 typeform.com
 umeng.com
+unacast.com
 unidentifiedanalytics.web.app
 urbanairship.com
 us.i.posthog.com
@@ -511,15 +550,20 @@ useinsider.com
 utdid.taobao.com
 uxcam.com
 vars.hotjar.com
+venntel.com
+veraset.com
 via.intercom.io
 visit.tealiumiq.com
 vivtracking.com
 webanalytics.zohodcm.com
 webengage.com
+webloc.com
 webseoanalytics.com
 wrs.clevertap.com
 www-google-analytics.l.google.com
 www.google-analytics.com
+xad.com
+xmode.io
 xp.apple.com
 xtracker.logimeter.com
 yandexmetrica.com

@@ -510,6 +510,76 @@ bd.api.iqiyi.com
 api.igexin.com
 igexin.com
 
+# --- Location data brokers feeding law enforcement (Fog, Venntel, X-Mode pipeline) ---
+# X-Mode / Outlogic (FTC banned Jan 2024, still collecting)
+xmode.io
+outlogic.io
+api.xmode.io
+data.xmode.io
+# Venntel / Gravy Analytics (FTC banned Dec 2024)
+venntel.com
+gravyanalytics.com
+api.gravyanalytics.com
+# Mobilewalla (FTC banned Dec 2024)
+mobilewalla.com
+api.mobilewalla.com
+# InMarket (FTC banned Jan 2024)
+inmarket.com
+tracking.inmarket.com
+# Babel Street (federal agency intelligence platform)
+babelstreet.com
+api.babelstreet.com
+# Penlink / Webloc (ICE contract 2025)
+penlink.com
+webloc.com
+# Fog Data Science (pattern-of-life law enforcement tool)
+fogdatascience.com
+# Digital Envoy / Neustar location
+digitalenvoy.net
+# Cuebiq (already in profiling list, adding ingest subdomain)
+collect.cuebiq.com
+ingest.cuebiq.com
+# Placed / Snap attribution (location)
+placed.com
+snapplace.com
+# Near Intelligence
+near.co
+near.com
+api.near.co
+# Precisely / Targeting (formerly Pitney Bowes location data)
+precisely.com
+# GroundTruth (formerly xAd — location data broker)
+groundtruth.com
+api.groundtruth.com
+xad.com
+# Foursquare Pilgrim SDK (background location harvesting)
+pilgrim.foursquare.com
+api.foursquare.com
+foursquare.com
+# Adsquare (location data marketplace)
+adsquare.com
+api.adsquare.com
+# Outbrain location data
+locationdata.outbrain.com
+# Veraset (mobility data sold to government)
+veraset.com
+api.veraset.com
+# SafeGraph (already in profiling list, adding API)
+api.safegraph.com
+# Kochava (sells location to brokers)
+kochava.com
+mpmetrics.kochava.com
+# Complementics / location intelligence
+complementics.com
+# Unacast (location analytics)
+unacast.com
+api.unacast.com
+# Predicio (European location broker)
+predicio.com
+# Tamoco (location SDK)
+tamoco.com
+api.tamoco.com
+
 # --- Apple device telemetry ---
 metrics.apple.com
 xp.apple.com
