@@ -644,6 +644,103 @@ api.transmitsecurity.com
 incognia.com
 api.incognia.com
 
+# --- ACR (Automated Content Recognition) — Smart TV / cross-device correlation ---
+inscape.tv
+data.inscape.tv
+samba.tv
+api.samba.tv
+gracenote.com
+tmsapi.com
+cdn2.gracenote.com
+ip-api.gracenote.com
+acr.conviva.com
+conviva.com
+api.conviva.com
+stats.conviva.com
+lg.conviva.com
+samsung.conviva.com
+roku.conviva.com
+ads.roku.com
+ad.roku.com
+scif.roku.com
+track.roku.com
+ads.samsungads.com
+config.samsungads.com
+deltas.samsungads.com
+us.info.lgsmartad.com
+info.lgsmartad.com
+ad.lgsmartad.com
+vizio.com
+smartcast.vizio.com
+api.vizio.com
+
+# --- Financial data brokers (transaction + purchase data sold to advertisers) ---
+# Verisk Marketing / Argus
+verisk.com
+veriskmarketing.com
+argusinformation.com
+# TransUnion TruAudience
+truaudience.com
+transunion.com
+marketing.transunion.com
+# Equifax Data-driven Marketing
+equifax.com
+kbmgroup.com
+edigitalresearch.com
+# IRI / Circana (purchase data + location)
+circana.com
+iri.com
+infores.com
+# NCSolutions (CPG purchase targeting)
+ncsolutions.com
+nielseniq.com
+api.nielseniq.com
+# Epsilon / Publicis PeopleCloud
+epsilonpeoplecloud.com
+peoplecloud.epsilon.com
+epsilonpersonalizedmedia.com
+publicismedia.com
+# Acxiom InfoBase (financial extension)
+infoacxiom.com
+recognition.acxiom.com
+
+# --- Clean room feed tags (client-side data collection feeding identity clean rooms) ---
+# LiveRamp ATS / RampID
+rampid.com
+ats.rlcdn.com
+authenticated-traffic-solution.rlcdn.com
+connect.liveramp.com
+# Google PAIR / Ads Data Hub
+pair.google.com
+adsdatahub.google.com
+# AWS Clean Rooms (client-side tags)
+ads.amazon.com
+assoc-amazon.com
+# Habu (clean room SaaS)
+habu.com
+api.habu.com
+# InfoSum
+infosum.com
+api.infosum.com
+
+# --- Sensor / activity inference SDKs (motion, screen wake, typing inference) ---
+# Inrix (mobility + activity inference)
+inrix.com
+api.inrix.com
+data.inrix.com
+# Sense360 / Medallia (activity inference)
+sense360.com
+api.sense360.com
+# Reveal Mobile (geofence + activity)
+revealmobile.com
+api.revealmobile.com
+# Verve Group (motion + activity)
+vervegroup.com
+ads.vervegroup.com
+# Killi (consent + activity data marketplace)
+killi.io
+api.killi.io
+
 # --- Apple device telemetry ---
 metrics.apple.com
 xp.apple.com
