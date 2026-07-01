@@ -871,6 +871,270 @@ data.flurry.com
 api.flurry.com
 log.flurry.com
 
+# --- Stalkerware C2 domains (commercial intimate partner surveillance) ---
+# mSpy
+mspy.com
+mspyonline.com
+install.mspy.com
+api.mspy.com
+# FlexiSPY
+flexispy.com
+mobilefonex.com
+digitalendpoint.com
+svlogin.asia
+spyphonereview.com
+# Hoverwatch / Refog
+hoverwatch.com
+hover.watch
+hws.icu
+my.hws.icu
+refog.com
+refog.net
+refog.de
+refog.org
+highstermobi.com
+prospybubble.com
+# TheTruthSpy cluster (Jexpa Framework — dozens of clone apps share infrastructure)
+thetruthspy.com
+copy9.com
+mxspy.com
+spyfone.com
+guestspy.com
+trackview.net
+spymaster-pro.com
+spyapp.com
+# Spyic / Cocospy / iSpyoo / ClevGuard cluster
+spyic.com
+cocospy.com
+ispyoo.com
+clevguard.com
+kidsguard.com
+kidsguard.pro
+api.clevguard.com
+# iKeyMonitor
+ikeymonitor.com
+api.ikeymonitor.com
+# Cerberus
+cerberus-app.com
+# Spyera
+spyera.com
+api.spyera.com
+# Spy24
+spy24.app
+spy24.net
+# Spapp Monitoring
+spappmonitoring.com
+# uMobix
+umobix.com
+api.umobix.com
+# Eyezy
+eyezy.com
+api.eyezy.com
+# Spynger
+spynger.com
+# KidLogger
+kidlogger.net
+api.kidlogger.net
+# Haqerra
+haqerra.com
+# Minspy / Spyier / Safespy cluster
+minspy.com
+spyier.com
+safespy.com
+# Xnore
+xnore.com
+# SpyHuman
+spyhuman.com
+api.spyhuman.com
+# iSpyoo
+ispyoo.com
+# Ino Spy
+inobram.com
+# Spytrac
+spytrac.com
+# OwnSpy
+ownseeking.com
+ownspy.com
+# PhoneSpector
+phonespector.com
+# Hoverspy
+hoverspy.com
+# Spyrix
+spyrix.com
+api.spyrix.com
+
+# --- Bossware / employee monitoring agent endpoints ---
+# Teramind
+teramind.co
+agent.teramind.co
+api.teramind.co
+cloud.teramind.co
+# ActivTrak
+activtrak.com
+agent.activtrak.com
+api.activtrak.com
+logs.activtrak.com
+# Veriato / Cerebral
+veriato.com
+agent.veriato.com
+api.veriato.com
+collect.veriato.com
+# Hubstaff (GPS tracks off-hours)
+hubstaff.com
+telemetry.hubstaff.com
+api.hubstaff.com
+agent.hubstaff.com
+# Time Doctor
+timedoctor.com
+agent.timedoctor.com
+api.timedoctor.com
+# Controlio
+controlio.net
+agent.controlio.net
+# InterGuard
+interguard.com
+# Kickidler
+kickidler.com
+agent.kickidler.com
+# DeskTime
+desktime.com
+api.desktime.com
+# WorkTime
+worktime.com
+# Staffcop
+staffcop.com
+# CurrentWare
+currentware.com
+agent.currentware.com
+# Insightful (formerly Workpuls)
+insightful.io
+api.insightful.io
+# Monitask
+monitask.com
+api.monitask.com
+
+# --- Adware / bundleware / PUA (potentially unwanted applications) ---
+# InstallCore
+installcore.com
+cdn.installcore.com
+# OpenCandy
+opencandy.com
+cdn.opencandy.com
+# Conduit / ClientConnect
+conduit.com
+clientconnect.com
+tb.ask.com
+# Babylon Toolbar
+babylon.com
+babylontoolbar.com
+# DealPly
+dealply.com
+update.dealply.com
+# Mindspark / IAC
+mindspark.com
+ap.ask.com
+hpapp.mywebsearch.com
+mywebsearch.com
+funmoodsearch.com
+# SnackArcin / OfferCore (active 2025)
+snackmedia.com
+snackarcincdn.com
+sncmedia.net
+mediasncr.com
+offercoremedia.com
+ocmetrics.net
+occdn.services
+ocservices.net
+offercorestats.com
+# Superfish / Komodia
+superfish.com
+komodia.com
+# Reimage / PC repair adware
+reimage.com
+api.reimage.com
+# Driver Update adware
+driverupdate.net
+drivertuner.com
+winzipdriverupdater.com
+# MyCleanPC
+mycleanpc.com
+# YourPhone adware
+getmycleanpc.com
+# Spigot adware
+spigot.com
+application.com
+# Ask.com toolbar
+ask.com
+search.tb.ask.com
+
+# --- Proxyware / bandwidth theft (installed without disclosure) ---
+honeygain.com
+api.honeygain.com
+packetstream.io
+api.packetstream.io
+iproyal.com
+pawns.app
+peer2profit.com
+p2p.peer2profit.com
+earnapp.com
+brightdata.com
+lum-res31.luminati.io
+luminati.io
+iproyal.com
+traffic.iproyal.com
+reproxy.io
+reproxy.net
+ipv6.reproxy.io
+
+# --- Cryptojacking scripts / browser miners ---
+coinhive.com
+coin-hive.com
+crypto-loot.com
+jsecoin.com
+deepminer.com
+minero.cc
+coinimp.com
+wasm.web.mine.tf
+politicalsciencestudent.com
+webminepool.com
+cryptonotepool.com
+minergates.com
+xmrig.com
+coinblind.com
+reasonsecurityrealtime.com
+coin-have.com
+afjcoins.com
+cryptoloot.pro
+
+# --- Infostealer / RAT known distribution and panel domains ---
+# LummaC2 (most deployed infostealer 2025)
+lummastealer.com
+lumma5b6r.com
+lummac2.com
+# Vidar stealer
+vidarstealer.com
+# RedLine stealer
+redline-stealer.com
+# Raccoon stealer
+raccoonstealer.com
+# Atomic Stealer (AMOS — macOS)
+amos-stealer.com
+atomicstealer.com
+# MetaStealer (macOS)
+metastealer.org
+# BTMOB RAT (Android, active 2025)
+btmob.net
+# AsyncRAT panels
+asyncrat.com
+# Known RAT distribution sites (fake software)
+trustsoftware.net
+trustsystemguard.com
+trustbastion.com
+au-club.top
+# Cobalt Strike C2 (pentest tool abused for malware)
+cobaltstrike.com
+cs.cobaltstrike.com
+
 # --- Apple device telemetry ---
 metrics.apple.com
 xp.apple.com

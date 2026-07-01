@@ -29,11 +29,25 @@ COMMUNITY_SOURCES = [
 
 # Focused plain-text sources (one domain per line, # comments ok)
 PLAIN_SOURCES = [
+    # Peter Lowe adservers
     "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=plain&showintro=0&mimetype=plaintext",
+    # AdGuard tracking servers
     "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
+    # AssoEchap stalkerware C2 indicators (172 apps, maintained by security researchers)
+    "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+    # Blocklist Project malware domains
+    "https://blocklistproject.github.io/Lists/malware.txt",
 ]
 
 # Telemetry-specific keywords — only keep lines matching these
+# For the AssoEchap + malware lists we want ALL domains (no keyword filter)
+# Cap these at MAX_UNFILTERED_DOMAINS to prevent bloat (Blocklist Project is 400k+)
+UNFILTERED_SOURCES = {
+    "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+    "https://blocklistproject.github.io/Lists/malware.txt",
+}
+MAX_UNFILTERED_DOMAINS = 5000
+
 TELEMETRY_KEYWORDS = [
     "sentry", "crashlytics", "bugsnag", "rollbar", "instabug",
     "amplitude", "mixpanel", "segment", "heap", "fullstory", "logrocket",
@@ -66,7 +80,7 @@ def fetch_url(url, timeout=20):
         return ""
 
 
-def parse_plain(text):
+def parse_plain(text, unfiltered=False, max_domains=None):
     domains = set()
     for line in text.splitlines():
         line = line.split("#")[0].strip().lower()
@@ -74,9 +88,10 @@ def parse_plain(text):
         parts = line.split()
         domain = parts[-1] if parts else ""
         if domain and "." in domain and not domain.startswith("."):
-            # filter to telemetry-relevant only
-            if any(kw in domain for kw in TELEMETRY_KEYWORDS):
+            if unfiltered or any(kw in domain for kw in TELEMETRY_KEYWORDS):
                 domains.add(domain)
+                if max_domains and len(domains) >= max_domains:
+                    break
     return domains
 
 
@@ -89,8 +104,11 @@ def main():
     for url in PLAIN_SOURCES:
         print(f"Fetching {url[:60]}...")
         text = fetch_url(url)
-        found = parse_plain(text)
-        print(f"  +{len(found)} telemetry domains")
+        unfiltered = url in UNFILTERED_SOURCES
+        cap = MAX_UNFILTERED_DOMAINS if unfiltered else None
+        found = parse_plain(text, unfiltered=unfiltered, max_domains=cap)
+        print(f"  +{len(found)} domains{' (unfiltered, capped at ' + str(cap) + ')' if unfiltered else ''}")
+
         domains |= found
         time.sleep(1)
 
