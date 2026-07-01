@@ -741,6 +741,136 @@ ads.vervegroup.com
 killi.io
 api.killi.io
 
+# --- Prebid.js / header bidding auction infrastructure ---
+# These fire 20-40 simultaneous RTB calls on every page load
+prebid.org
+prebid.adnxs.com
+files.prebid.org
+prebid-server.rubiconproject.com
+exapi-us-east.rubiconproject.com
+exapi-us-west.rubiconproject.com
+exapi-eu.rubiconproject.com
+exapi-apac.rubiconproject.com
+prebid.a-mo.net
+ams1.b.adnxs.com
+europe.nym1.b.adnxs.com
+prebid.media.net
+pb.yieldlab.net
+prebid.districtm.io
+rtb.openx.net
+bidder.criteo.com
+prebid.smartadserver.com
+slotbid.a-mo.net
+prebid.smaato.net
+orthb.adtelligent.com
+bidder.sharethrough.com
+prebid.a-ads.com
+# PulsePoint (contextual + programmatic)
+context.bidswitch.net
+orthb.pulsepoint.com
+
+# --- Retail media network tracking ---
+# Target Roundel
+roundel.com
+ads.target.com
+target.demdex.net
+# Walmart Connect
+walmartconnect.com
+advertising.walmart.com
+wmt.com
+# Kroger / 84.51
+84-51.com
+krogerads.com
+advertising.kroger.com
+# Instacart Ads
+ads.instacart.com
+instacart.com
+# CVS Media Exchange
+cvspharmacy.com
+advertising.cvs.com
+# Walgreens Advertising Group
+advertising.walgreens.com
+# Home Depot Retail Media+
+retailmedia.homedepot.com
+# Best Buy Ads
+ads.bestbuy.com
+# Albertsons Media Collective
+albertsonsmediagroup.com
+# Dollar General Media Network
+media.dollargeneral.com
+# Gopuff Ads
+ads.gopuff.com
+# Ulta Beauty Media Network
+media.ulta.com
+
+# --- IoT / Smart home telemetry ---
+# Amazon Alexa / Echo / Ring
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+alex.a2z.com
+alexaresponse.amazon.com
+push.amazon.com
+api.push.amazon.com
+kinesis.us-east-1.amazonaws.com
+telemetry.ring.com
+analytics.ring.com
+log.ring.com
+# Google Nest / Home
+analytics.nest.com
+telemetry.nest.com
+stats.nest.com
+homearea.googleapis.com
+devices.nest.com
+# Samsung SmartThings
+stats.samsungsmarthome.com
+telemetry.samsungsmarthome.com
+log.smartthings.com
+# Philips Hue
+telemetry.meethue.com
+# Ecobee
+stats.ecobee.com
+telemetry.ecobee.com
+# iRobot / Roomba
+telemetry.irobot.com
+analytics.irobot.com
+# Wyze
+telemetry.wyze.com
+analytics.wyze.com
+# Roborock
+logs.roborock.com
+telemetry.roborock.com
+
+# --- Long-tail MMPs (mobile measurement partners) ---
+# Sensor Tower (app intelligence + attribution)
+sensortower.com
+api.sensortower.com
+# Appsumer
+appsumer.com
+# Airbridge
+airbridge.io
+api.airbridge.io
+static.airbridge.io
+# Adbrix
+adbrix.io
+api.adbrix.io
+# Remerge (retargeting MMP)
+remerge.io
+api.remerge.io
+# Adikteev
+adikteev.com
+# Jampp (programmatic retargeting)
+jampp.com
+trk.jampp.com
+# Digital Turbine / Appreciate
+digitalturbine.com
+appreciateapp.com
+trk.dtignite.com
+# Verizon Media MMP (Oath/Yahoo)
+flurry.com
+data.flurry.com
+api.flurry.com
+log.flurry.com
+
 # --- Apple device telemetry ---
 metrics.apple.com
 xp.apple.com
