@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-09 18:30 UTC
-# Domains: 7377
+# Updated: 2026-07-10 11:25 UTC
+# Domains: 7376
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -6828,7 +6828,6 @@ viptelefonprogrami.com
 viptrack.pro
 virsis.net
 visit.tealiumiq.com
-vivtracking.com
 vizio.com
 vkur.se
 vkur1.se
