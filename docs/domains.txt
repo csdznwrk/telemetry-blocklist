@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-07-17 07:35 UTC
-# Domains: 7377
+# Updated: 2026-07-17 16:37 UTC
+# Domains: 7378
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -6844,6 +6844,7 @@ webminepool.com
 webrtc.thd.cc
 webseoanalytics.com
 webservicesdb.mobiispy.com
+webtrackerplus.com
 webwatcher-child-app.firebaseio.com
 webwatcherdata.com
 webwatchernow.com
