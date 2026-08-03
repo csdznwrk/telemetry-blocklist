@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-03 09:58 UTC
-# Domains: 7379
+# Updated: 2026-08-03 14:54 UTC
+# Domains: 7380
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -5134,6 +5134,7 @@ analytics.ring.com
 analytics.santander.co.uk
 analytics.segment.io
 analytics.swiggy.com
+analytics.tempy.email
 analytics.tiktok.com
 analytics.trackview.net
 analytics.wyze.com
