@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-10 13:23 UTC
-# Domains: 7381
+# Updated: 2026-08-10 19:04 UTC
+# Domains: 7382
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -6392,6 +6392,7 @@ rum-ingest.us0.observability.splunkcloud.com
 rum-ingest.us0.signalfx.com
 rum-ingest.us1.observability.splunkcloud.com
 rum-ingest.us1.signalfx.com
+rum.aliyuncs.com
 rum.browser-intake-datadoghq.com
 runaki-support.appspot.com
 s.appjiagu.com
