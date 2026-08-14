@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-14 07:41 UTC
-# Domains: 7382
+# Updated: 2026-08-14 13:20 UTC
+# Domains: 7383
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -5813,6 +5813,7 @@ infosum.com
 ingest.cuebiq.com
 ingest.de.sentry.io
 ingest.eu0.signalfx.com
+ingest.in.signoz.cloud
 ingest.lightstep.com
 ingest.sentry.io
 ingest.us.sentry.io
