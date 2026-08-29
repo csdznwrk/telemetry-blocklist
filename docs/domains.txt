@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-08-29 06:44 UTC
-# Domains: 7386
+# Updated: 2026-08-29 16:35 UTC
+# Domains: 7387
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -6707,6 +6707,7 @@ tracking.adstrategysites.com
 tracking.casheddy.com
 tracking.cybertips.uk
 tracking.epicgames.com
+tracking.hostgator.com
 tracking.hyros.com
 tracking.ibxlink.com
 tracking.inmarket.com
