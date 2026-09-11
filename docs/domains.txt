@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-11 16:16 UTC
-# Domains: 7384
+# Updated: 2026-09-11 20:49 UTC
+# Domains: 7385
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -6131,6 +6131,7 @@ orthb.pulsepoint.com
 otel.nr-data.net
 otelcol.aspecto.io
 otelcol.honeycomb.io
+otheve.beacon.qq.com
 otlp-gateway-prod-eu-west-0.grafana.net
 otlp-gateway-prod-us-east-0.grafana.net
 outlogic.io
