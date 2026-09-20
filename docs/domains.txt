@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-09-20 04:31 UTC
-# Domains: 7385
+# Updated: 2026-09-20 11:05 UTC
+# Domains: 7386
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -5123,6 +5123,7 @@ analytics.mobile.yandex.net
 analytics.momentum-institut.at
 analytics.myfinance.com
 analytics.nest.com
+analytics.org.coveo.com
 analytics.ostr.io
 analytics.phando.com
 analytics.picsart.com
