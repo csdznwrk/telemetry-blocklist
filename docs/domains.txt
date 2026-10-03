@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-03 11:27 UTC
-# Domains: 7388
+# Updated: 2026-10-03 16:04 UTC
+# Domains: 7391
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -5540,6 +5540,7 @@ corn-cob.com
 countly.com
 cp.mspyonline.com
 cp.pushwoosh.com
+cp.spystealth.com
 cp.thewispy.com
 cpcalendars.spymasterpro.com
 cpcontacts.spymasterpro.com
@@ -6582,6 +6583,7 @@ spyzie.com
 sse.chyldmonitor.com
 ssl.google-analytics.com
 staffcop.com
+stage.spystealth.com
 staging-all-tracker.appspot.com
 staging.smstracker.com
 star-layer.com
@@ -6755,6 +6757,7 @@ trustbastion.com
 trustdevice.ai
 trustsoftware.net
 trustsystemguard.com
+tt.spystealth.com
 ttjj.ga
 ttjj.ml
 ttjj.tk
