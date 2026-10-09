@@ -1,5 +1,5 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-09 05:42 UTC
+# Updated: 2026-10-09 12:58 UTC
 # Domains: 7392
 
 0--foodwarez.da.ru
@@ -6726,7 +6726,6 @@ tracking.mspyonline.com
 tracking.netalerts.io
 tracking.olx-st.com
 tracking.orixa-media.com
-tracking.p-l-m.com
 tracking.wetter.at
 tracking01.walmart.com
 tracking101.com
@@ -7361,6 +7360,7 @@ zion-telemetry.api.cnn.io
 ||tracking.sexcash.com^
 ||tracking.shaadi.com^
 ||tracking.smartselling.cz^$third-party
+||tracking.trickbyte.com^
 ||tracking.upfluence.co^
 ||tracking.utlservice.com^
 ||tracking02.adweb.co.kr^$third-party
