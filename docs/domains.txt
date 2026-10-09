@@ -1,5 +1,5 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-09 12:58 UTC
+# Updated: 2026-10-09 22:30 UTC
 # Domains: 7392
 
 0--foodwarez.da.ru
