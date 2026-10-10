@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-10 12:16 UTC
-# Domains: 7392
+# Updated: 2026-10-10 21:27 UTC
+# Domains: 7393
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -6472,6 +6472,7 @@ services.spytoapp.com
 servicesloggermobi.azurewebsites.net
 servidor.in
 session-replay.browser-intake-datadoghq.com
+session.bugsnag.kindle.amazon.dev
 sessions.bugsnag.com
 settings.crashlytics.com
 setup.nemospy.com
