@@ -1,5 +1,5 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-14 04:29 UTC
+# Updated: 2026-10-14 11:35 UTC
 # Domains: 7393
 
 0--foodwarez.da.ru
@@ -7058,7 +7058,6 @@ zion-telemetry.api.cnn.io
 ||api.amplitude.com^
 ||api.instabug.com^
 ||api.loganalytics.io^
-||api.statsig.com^
 ||api.statsigcdn.com^
 ||app-measurement.com^
 ||app.pendo.io^
@@ -7132,6 +7131,7 @@ zion-telemetry.api.cnn.io
 ||events-ingestion.services.gorgias.com^
 ||events.launchdarkly.com^$third-party
 ||events.split.io^
+||events.statsigapi.net^
 ||eventtracking.hubapi.com^
 ||extremetracking.com^$third-party
 ||ezoicanalytics.com^
