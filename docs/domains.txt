@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-19 12:47 UTC
-# Domains: 7394
+# Updated: 2026-10-19 22:13 UTC
+# Domains: 7395
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -5398,6 +5398,7 @@ bd.api.iqiyi.com
 beacon.gu-web.net
 beacon.netflix.com
 beacon.scorecardresearch.com
+beacon.viafoura.io
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 best-spy-apps.com
