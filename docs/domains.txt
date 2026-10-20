@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-10-20 16:42 UTC
-# Domains: 7395
+# Updated: 2026-10-20 21:27 UTC
+# Domains: 7396
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -5278,6 +5278,7 @@ api.spyera.com
 api.spyhuman.com
 api.spylix.com
 api.spyrix.com
+api.stalkerware.app
 api.statsig.com
 api.swrve.com
 api.talkingdata.com
