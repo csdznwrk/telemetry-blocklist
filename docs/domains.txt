@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-24 22:13 UTC
-# Domains: 7399
+# Updated: 2026-11-25 07:59 UTC
+# Domains: 7400
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -6985,6 +6985,7 @@ zion-telemetry.api.cnn.io
 ||analytics.daasrv.net^$third-party
 ||analytics.dap-networks.de^
 ||analytics.datahc.com^
+||analytics.did.kr^
 ||analytics.e2estudios.com^
 ||analytics.ekonsilio.io^
 ||analytics.fatmedia.io^$third-party
