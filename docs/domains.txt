@@ -1,6 +1,6 @@
 # Mobile Telemetry Blocklist
-# Updated: 2026-11-25 07:59 UTC
-# Domains: 7400
+# Updated: 2026-11-25 21:29 UTC
+# Domains: 7402
 
 0--foodwarez.da.ru
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0.top
@@ -7098,6 +7098,7 @@ zion-telemetry.api.cnn.io
 ||cdn.rollbar.com^$third-party
 ||celebros-analytics.com^$third-party
 ||cheapcinema.club^$all
+||clerk-telemetry.com^
 ||client-analytics.braintreegateway.com^
 ||conduit-beacon-usw2.mtvnservices.com^
 ||conduit-beacon.mtvnservices.com^
@@ -7122,6 +7123,7 @@ zion-telemetry.api.cnn.io
 ||docomo-analytics.com^
 ||doppler-beacons.cbsivideo.com^
 ||dotmetrics.net^$third-party
+||download.gameanalytics.com^
 ||dynatrace-managed.com^
 ||e.crashlytics.com^
 ||easter-analytics.com^
